@@ -6,7 +6,7 @@ This project demonstrates a **modern data platform implementation** using **Azur
 
 ## 🏗️ Architecture
 
-![Project Workflow](Project_workflow.png)
+![Project Workflow](Architecture/Project_workflow.png)
 
 ### Flow Overview:
 1. **Source Systems**: Data originates from SQL databases (and can be extended to other systems).  
